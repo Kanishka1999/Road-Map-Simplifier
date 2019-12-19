@@ -1,0 +1,4 @@
+Find the yolo weights file at:
+https://drive.google.com/drive/folders/1Y4HUpMK7lxJAp_sNYbrdG6OdHbWnWKLj?usp=sharing
+
+And place it under yolo-coco folder 
